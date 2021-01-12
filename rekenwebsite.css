@@ -8,7 +8,7 @@ body{
     color: black;
     background-color:#cfffe5;
     position: fixed;
-      right: 14%;
+      right: 4%;
       width: 150px;
       height: 50px;
       border: 3px solid black;
@@ -21,7 +21,7 @@ body{
     color: black;
     background-color:#cfffe5;
     position: fixed;
-      right: 27%;
+      right: 17%;
       width: 150px;
       height: 50px;
       border: 3px solid black;
@@ -34,7 +34,7 @@ body{
     color: black;
     background-color:#cfffe5;
     position: fixed;
-      right: 40%;
+      right: 30%;
       width: 150px;
       height: 50px;
       border: 3px solid black;
@@ -47,7 +47,7 @@ body{
     color: black;
     background-color:#cfffe5;
     position: fixed;
-      right: 53%;
+      right: 43%;
       width: 150px;
       height: 50px;
       border: 3px solid black;
@@ -60,7 +60,7 @@ body{
     color: black;
     background-color:#cfffe5;
     position: fixed;
-      right: 66%;
+      right: 56%;
       width: 150px;
       height: 50px;
       border: 3px solid black;
@@ -70,12 +70,13 @@ body{
  
 
 #div1{
-    margin-left: 75px;
+    margin: auto; 
     height:400px;
     width: 1100px;
     background-color: #5097a4;
     border: 5px;
-    margin-top: 75px;
+  margin-top: 8%; 
+  
 }
 
  
@@ -83,9 +84,9 @@ body{
 #div2{
     background-color: #5097a4;
     height: 100px;
-    width: 1282px;
+    width: 100%;
     border-bottom: 1px solid black;
     margin-top: -22px;
-    margin-left: -10px;
+
     line-height: 100px;
 }
